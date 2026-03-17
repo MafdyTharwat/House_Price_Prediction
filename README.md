@@ -29,5 +29,5 @@ The goal was to simulate a real-world scenario where data is "messy" and require
 * Implemented **Linear Regression** as a baseline model.
 * Achieved an **R-squared ($R^2$) score of ~0.90** after proper data cleaning.
 
-## 📊 Visualizations
+## Visualizations
 > **Note:** Here I observed how removing the $1M$ area outlier transformed the correlation from 0.01 to a strong positive relationship.
